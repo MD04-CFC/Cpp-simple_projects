@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651318292 source:c:\users\48882\desktop\c++ genethics\main.cpp
+	<iostream>
+	<fstream>
+

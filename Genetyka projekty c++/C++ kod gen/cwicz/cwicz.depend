@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650644336 source:c:\users\48882\desktop\cwicz\main.cpp
+	<iostream>
+	<fstream>
+
