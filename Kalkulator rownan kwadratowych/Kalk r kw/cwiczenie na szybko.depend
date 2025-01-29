@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640104000 source:c:\users\rodzina\desktop\nowy folder\cwiczenie na szybko\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
+1640104208 source:c:\users\rodzina\desktop\kalkulator rownan kwadratowych\kalk r kw\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
