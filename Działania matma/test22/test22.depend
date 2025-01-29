@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1641384086 source:c:\users\rodzina\desktop\nowy folder\test22\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"naglowek.h"
+
+1641384086 source:c:\users\rodzina\desktop\nowy folder\test22\funckje 2.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
+1641384399 c:\users\rodzina\desktop\nowy folder\test22\naglowek.h
+	<iostream>
+	<cmath>
+	<math.h>
+	<iostream>
+	<cmath>
+	<math.h>
+
+1641384086 source:c:\users\rodzina\desktop\c++ projekty\rozbudowane\dzia³ania matma\test22\funckje 2.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
+1641404214 source:c:\users\rodzina\desktop\c++ projekty\rozbudowane\dzia³ania matma\test22\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"naglowek.h"
+	<limits>
+
+1641384399 c:\users\rodzina\desktop\c++ projekty\rozbudowane\dzia³ania matma\test22\naglowek.h
+	<iostream>
+	<cmath>
+	<math.h>
+	<iostream>
+	<cmath>
+	<math.h>
+
